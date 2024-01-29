@@ -15,3 +15,11 @@
 5. Muestra el resultado del juego al jugador.
    
 6. Permite al jugador jugar nuevamente si lo desea.
+
+  ![image](https://github.com/CAMP09/PiedraPapelTijera/assets/64702535/bbea0e9a-8704-4eed-bc64-ebbb8c6c3c88)
+  ![image](https://github.com/CAMP09/PiedraPapelTijera/assets/64702535/8dcd1180-7c7b-4c91-969e-0ce3db8aa800)
+  ![image](https://github.com/CAMP09/PiedraPapelTijera/assets/64702535/a9f97e52-862c-48f8-b5ce-188bf8e5790b)
+
+
+
+
